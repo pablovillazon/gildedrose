@@ -1,7 +1,6 @@
 # gildedrose
 Implemented UnitTests
 ---------------------------
-
 TestUpdateQuality() : Passed
 TestAgedBrieIncreaseQuality(): Passed
 TestQualityNoNegative(): Passed
