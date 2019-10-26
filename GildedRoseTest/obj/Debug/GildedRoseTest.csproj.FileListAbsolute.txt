@@ -1,0 +1,9 @@
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRoseTest\bin\Debug\GildedRoseTest.dll
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRoseTest\bin\Debug\GildedRoseTest.pdb
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRoseTest\bin\Debug\GildedRose.exe
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRoseTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRoseTest\bin\Debug\GildedRose.pdb
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRoseTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRoseTest\obj\Debug\GildedRoseTest.csprojResolveAssemblyReference.cache
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRoseTest\obj\Debug\GildedRoseTest.dll
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRoseTest\obj\Debug\GildedRoseTest.pdb

@@ -1,0 +1,6 @@
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRose\bin\Debug\GildedRose.exe.config
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRose\bin\Debug\GildedRose.exe
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRose\bin\Debug\GildedRose.pdb
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRose\obj\Debug\GildedRose.csprojResolveAssemblyReference.cache
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRose\obj\Debug\GildedRose.exe
+D:\pablo\pablo\Maestria Alsie\Mod 12 - Automatizacion de Pruebas\Tareas\4 Tarea TDD\source\gildedrose2\GildedRose\GildedRose\obj\Debug\GildedRose.pdb
